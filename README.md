@@ -1,5 +1,7 @@
 # buisniss_card_app
 
+My first Flutter project.
+
 A new Flutter project.
 
 ## Getting Started
