@@ -1,18 +1,17 @@
-# buisniss_card_app
+# Business Card App
 
-My first Flutter project.
+A personal digital business card.
 
-A new Flutter project.
+A single-screen app presenting a photo, name, title and contact details
+with custom fonts and a polished layout.
+
+## Tech Stack
+
+Flutter - Dart - custom fonts and image assets
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+flutter run
+```
